@@ -1,0 +1,39 @@
+_repo: Lady-Rosamond-s-book-b-or-Dawnings-of-light_72426
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guernsey, Lucy Ellen
+    aliases:
+    - Guernsey, Lucy E. (Lucy Ellen)
+    - L. E. G. (Lucy Ellen Guernsey)
+    - G., L. E. (Lucy Ellen Guernsey)
+    - LEG (Lucy Ellen Guernsey)
+    birthdate: 1826
+    deathdate: 1899
+    gutenberg_agent_id: '56141'
+    url: http://www.gutenberg.org/2009/agents/56141
+    wikipedia: https://en.wikipedia.org/wiki/Lucy_Ellen_Guernsey
+description: ''
+gutenberg_issued: '2023-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72426'
+language: en
+pgterms:marc905: 20231204054908guernsey
+pgterms:marc906: '1903'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bJohn F. Shaw and Co., $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Stanton-Corbet chronicles.
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Great Britain -- History -- Henry VIII, 1509-1547 -- Fiction'
+- !lcsh 'Diary fiction'
+- !lcsh 'Women -- Fiction'
+- !lcsh 'Convents -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Lady Rosamond''s book : $b or, Dawnings of light'
+url: http://www.gutenberg.org/ebooks/72426
